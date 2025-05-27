@@ -8,7 +8,7 @@ $$
 \end{array}
 $$ 
 
-where the variables are the diagonal matrix $D \in \mathbf{R}^{n \times n}$ and $F \in \mathbf{R}^{n \times r}.$ For more information, see our [paper]().
+where the variables are the diagonal matrix $D \in \mathbf{R}^{n \times n}$ and $F \in \mathbf{R}^{n \times r}.$ For more information, see our [paper](https://arxiv.org/abs/2505.12117).
 
 ## Recreating the figures in the paper
 First install the packages listed in 'requirements.txt'.
@@ -22,15 +22,11 @@ First install the packages listed in 'requirements.txt'.
 If you wish to cite this work you may use the following BibTex:
 
 ```
-@article{Cederberg25,
-title = {},
-journal = {},
-volume = {},
-pages = {},
-year = {},
-issn = {},
-doi = {},
-author = {},
+@article{Cederberg2025,
+  title={T-Rex: Fitting a Robust Factor Model via Expectation-Maximization},
+  author={Cederberg, Daniel},
+  journal={arXiv preprint arXiv:2505.12117},
+  year={2025}
 }
 ```
 
